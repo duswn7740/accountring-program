@@ -1,6 +1,7 @@
 # 회계프로그램
 
 > 중소기업을 위한 풀스택 회계 관리 시스템
+(Node.js, Express, React, MariaDB)
 
 ## 📋 프로젝트 소개
 
@@ -98,7 +99,9 @@
 
 ### 주요 화면
 
-[로그인 & 회사 선택 영상 보기](https://youtu.be/N56I9JyCA7E)
+##### 로그인 & 회사 선택
+[![Video Lable](https://img.youtube.com/vi/N56I9JyCA7E/0.jpg)](https://youtu.be/N56I9JyCA7E)
+
 
 
 ### 주요 기술적 도전과 해결
