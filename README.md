@@ -120,7 +120,7 @@
 ### 주요 화면
 
 ##### 로그인 & 회사 선택
-[![Video Lable](https://img.youtube.com/vi/N56I9JyCA7E/0.jpg)](https://youtu.be/N56I9JyCA7E)
+[![Video Lable](https://img.youtube.com/vi/ms8y51bTKt4/0.jpg)](https://youtu.be/ms8y51bTKt4))
 
 
 
