@@ -122,6 +122,9 @@
 ##### 로그인 & 회사 선택
 [![Video Lable](https://img.youtube.com/vi/ms8y51bTKt4/0.jpg)](https://youtu.be/ms8y51bTKt4))
 
+##### 일반전표 입력
+<!-- 회원가입 -->
+[![Video Label](http://img.youtube.com/vi/SZyBa8OUmaw/0.jpg)](https://youtu.be/SZyBa8OUmaw)
 
 
 ### 주요 기술적 도전과 해결
