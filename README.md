@@ -8,6 +8,26 @@
 실무에서 사용하던 회계 프로그램의 핵심 기능을 직접 구현한 풀스택 웹 애플리케이션입니다.  
 단순한 CRUD를 넘어 실제 업무 프로세스를 반영한 회계 시스템으로, 전표 입력부터 재무제표 작성까지 전 과정을 지원합니다.
 
+### 레포지토리
+<table>
+  <tr>
+    <td>구분</td>
+    <td>링크</td>
+    <td>기술 스택</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td><a href="https://github.com/duswn7740/accounting-frontend">🎨 github 바로가기</td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td><a href="https://github.com/duswn7740/accounting-backend">⚙️ github 바로가기</td>
+    <td>Java/Spring + MariaDB</td>
+  </tr>
+</table>
+
+
 ### 개발 동기
 
 - 실무에서 사용하던 회계 프로그램의 동작 원리 이해
