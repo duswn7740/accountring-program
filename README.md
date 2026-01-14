@@ -23,7 +23,12 @@
   <tr>
     <td>Backend</td>
     <td><a href="https://github.com/duswn7740/accounting-backend">⚙️ github 바로가기</td>
-    <td>Java/Spring + MariaDB</td>
+    <td>Node.js/Express + MariaDB</td>
+  </tr>
+  <tr>
+    <td>Notion</td>
+    <td><a href="https://inky-shear-6e9.notion.site/27ec4aa98d9880678f71cd1398518348?source=copy_link">📝 notion 바로가기</td>
+    <td>개발일지</td></td>
   </tr>
 </table>
 
@@ -123,8 +128,16 @@
 [![Video Lable](https://img.youtube.com/vi/ms8y51bTKt4/0.jpg)](https://youtu.be/ms8y51bTKt4))
 
 ##### 일반전표 입력
-<!-- 회원가입 -->
 [![Video Label](http://img.youtube.com/vi/SZyBa8OUmaw/0.jpg)](https://youtu.be/SZyBa8OUmaw)
+
+##### 매입매출전표 입력
+[![Video Label](http://img.youtube.com/vi/6AgE-9RDTg0/0.jpg)](https://youtu.be/6AgE-9RDTg0)
+
+##### 계정별원장 & 거래처별원장 조회
+[![Video Label](http://img.youtube.com/vi/0mqiFnOCzww/0.jpg)](https://youtu.be/0mqiFnOCzww)
+
+##### 결산 & 마감 후 이월
+[![Video Label](http://img.youtube.com/vi/ir5WVkGLr6s/0.jpg)](https://youtu.be/ir5WVkGLr6s)
 
 
 ### 주요 기술적 도전과 해결
@@ -156,8 +169,4 @@
 - **주요 기능**: 12개 이상
 - **커밋 수**: 100개 이상
 - **코드 리팩토링**: 336줄 감소 (검색 통합, Props 정리)
-
-### 작업일지 목록
-
-전체 작업일지는 [여기](노션_링크)에서 확인할 수 있습니다.
 
